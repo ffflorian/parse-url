@@ -11,7 +11,7 @@
       "default": "./dist/index.js"
     },
     "import": {
-      "types": "./index.d.mts",
+      "types": "./index.d.ts",
       "default": "./dist/index.mjs"
     }
   },
